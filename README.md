@@ -67,10 +67,8 @@ Other models, such as Random Forest and Gradient Boosting, also performed well, 
    cd health-insurance-fraud-detection  
    ```  
 2.Train the model
-3.Run file appy.py:
-'''bash
-   python appy.py
-'''
+
+3.Run file appy.py
 
 ---
 
